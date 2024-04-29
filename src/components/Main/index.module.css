@@ -1,0 +1,10 @@
+.section {
+  padding: 0 29px;
+}
+
+.heading {
+  padding: 29px 0;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+}

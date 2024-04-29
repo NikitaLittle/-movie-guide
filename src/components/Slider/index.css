@@ -1,0 +1,14 @@
+.swiper-pagination {
+  position: static;
+  padding: 29px 0;
+  text-align: start;
+}
+
+.swiper-pagination-bullet {
+  background-color: inherit;
+  height: 14px;
+}
+
+.swiper-slide {
+  cursor: pointer;
+}

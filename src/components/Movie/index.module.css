@@ -1,0 +1,35 @@
+.section {
+  margin: 0 29px;
+}
+
+.heading {
+  padding: 29px 0;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 29px;
+}
+
+.descriptionContainer {
+  max-width: 600px;
+}
+
+.description {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+}
+
+.description:nth-child(1) {
+  margin-bottom: 29px;
+}
+
+.image {
+  max-width: 400px;
+  max-height: 750px;
+}
