@@ -1,4 +1,5 @@
 # Киносправочник
+Тестовое задание компании VK на вакансию [React-разработчик (стажер)](https://www.vseti.app/vakansii/fhdjfdfdjfd7fdidfhdfjd) в проект RuStore.
 Кино-справочник с популярными фильмами дает возможность пользователю найти популярные и похожие фильмы, и краткую информацию: описание, жанр, длительность, дату выхода и т.п.<br><br>
 [Ссылка на GH-Pages](https://nikitalittle.github.io/movie-guide/)<br>
 ![image](https://github.com/NikitaLittle/movie-guide/assets/120175534/d31e34b3-308b-4be7-83b6-797a0f28d2c4)
