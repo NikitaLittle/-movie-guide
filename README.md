@@ -1,6 +1,6 @@
 # Киносправочник
 Кино-справочник с популярными фильмами дает возможность пользователю найти популярные и похожие фильмы, и краткую информацию: описание, жанр, длительность, дату выхода и т.п.<br><br>
-[Ссылка на GH-Pages]()<br>
+[Ссылка на GH-Pages](https://nikitalittle.github.io/movie-guide/)<br>
 ![image](https://github.com/NikitaLittle/movie-guide/assets/120175534/d31e34b3-308b-4be7-83b6-797a0f28d2c4)
 ## Что сделал:
 - организовал масштабируемую структуру проекта;
@@ -17,5 +17,5 @@
 <code>git clone https://github.com/NikitaLittle/movie-guide.git</code>
 2. Установите все зависимости:<br>
 <code>yarn или npm install</code>
-3. Запустите проект:<br>
+4. Запустите проект:<br>
 <code>npm start или yarn start</code>
